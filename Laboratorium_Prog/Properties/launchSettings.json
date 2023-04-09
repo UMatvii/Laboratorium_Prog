@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Laboratorium_Prog": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true
+    }
+  }
+}
