@@ -1,0 +1,15 @@
+﻿#tabliczka_mnozenia {
+    background-color: darkblue;
+    color: white;
+    border-style: solid;
+    border-width: medium;
+    width: 320px;
+    padding: 10px;
+    margin: 0px;
+}
+#Wyswetlanie{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    gap: 15px;
+}
